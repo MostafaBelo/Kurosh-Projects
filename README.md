@@ -2,4 +2,4 @@
 
 RAW Link:
 
-https://raw.githubusercontent.com/MostafaBelo/Kurosh-Projects/main/\<path\>
+https://raw.githubusercontent.com/MostafaBelo/Kurosh-Projects/main/<path\>
